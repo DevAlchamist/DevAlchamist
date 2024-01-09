@@ -57,7 +57,7 @@
 
 <p  align="flex center">
 
-<a  href="https://twitter.com/irl_introvert06"><img  alt="Twitter"  src="https://img.shields.io/badge/Twitter-Sahil%20Verma-blue?style=flat-square&logo=twitter"></a>
+<a  href="https://twitter.com/irl_introvert06"><img  alt="Twitter"  src="https://img.shields.io/badge/Twitter-irl_introvert06-blue?style=flat-square&logo=twitter"></a>
 <a  href="mailto:nayakshubhanshu69@gmail.com"><img  alt="Email"  src="https://img.shields.io/badge/Email-nayakshubhanshu69@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/shubhanshu-nayak-9332562a4"><img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-Shubhanshu Nayak-blue?"></a>
 </p>
