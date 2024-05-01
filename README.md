@@ -1,7 +1,7 @@
 <h2> Hey there! <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"> I'm Shubhanshu nayak.</h2>
 
 # 💫 About Me:
-1. 🤖 **Tech Wizard in Disguise:** Exploring new technologies and crafting software solutions while secretly plotting world domination through code. Beep boop!<br><br>2. 🚀 **Web Weaver Extraordinaire:** When not saving the world with lines of code, I'm busy creating mesmerizing websites and web apps that leave users clicking for more.<br><br>3. 🎮 **Gaming Guru by Night:** Hobbies include unleashing my gaming prowess—because who needs a break from pixels when you can create them?🕹️
+1. 🤖 **Tech Wizard in Disguise:** Exploring new technologies and crafting software solutions while secretly plotting world domination through code. Beep boop!<br>2. 🚀 **Web Weaver Extraordinaire:** When not saving the world with lines of code, I'm busy creating mesmerizing websites and web apps that leave users clicking for more.<br>3. 🎮 **Gaming Guru by Night:** Hobbies include unleashing my gaming prowess—because who needs a break from pixels when you can create them?🕹️
 
 
 ## 🌐 Socials:
